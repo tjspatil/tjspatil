@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @tjspatil
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React Framework and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 tjspatil/tjspatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
